@@ -12,8 +12,7 @@ The board used is an Arduino Uno, but this project could also be controlled by a
 ## Flow
 The arm scans its surroundings in a loop by rotating along its vertical axis. If an object within a set distance is found, the arm positions itself accordingly, picks up the object, transports it to a predetermined position, and resumes to scan its environment. Below is a link to a YouTube video demonstating the movement:
 
-[![Micro Servo Robot with Ultrasonic Sensor](\images\servo_robot_ultrasonic_2.jpg)](https://youtu.be/X36ca0j59DI "Micro Servo Robot with Ultrasonic Sensor")
-
+[![](images/servo_robot_ultrasonic_2.jpg)](https://youtu.be/X36ca0j59DI "Micro Servo Robot with Ultrasonic Sensor")
 
 ## Circuit
 Pin Name | Pin Used
