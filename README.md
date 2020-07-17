@@ -2,11 +2,11 @@
 
 
 ## Introduction
-This is an Arduino based micro servo robotic arm with an ultrasonic sensor. This project was inspired by the verious DIY robotic arm projects found on YouTube, GitHub and the Arduino ProjectHub. I wanted to build a similar robot using mostly household items, without the need of a 3D printer.
+This is an Arduino based micro servo robotic arm with an ultrasonic sensor. This project was inspired by the various DIY robotic arm projects found on YouTube, GitHub and the Arduino ProjectHub. I wanted to build a similar robot using mostly household items, without the need of a 3D printer.
 
 
 ## Code and Recources
-- Environment: Arduino IDE, Visual Studio Code -> PlatformIO
+- Environment: Arduino IDE, Visual Studio Code -> PlatformIO extension
 - Libraries: Servo, NewPing
 
 
