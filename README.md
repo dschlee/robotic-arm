@@ -5,6 +5,11 @@
 This is an Arduino based micro servo robotic arm with an ultrasonic sensor. This project was inspired by the verious DIY robotic arm projects found on YouTube, GitHub and the Arduino ProjectHub. I wanted to build a similar robot using mostly household items, without the need of a 3D printer.
 
 
+## Code and Recources
+- Environment: Arduino IDE, Visual Studio Code -> PlatformIO
+- Libraries: Servo, NewPing
+
+
 ## Build
 The board used is an Arduino Uno, but this project could also be controlled by a Nano. The arm has three degrees of freedom and contains four servos. Three of them control the joints 'base', 'elbow' and 'wrist', while the fourth one controls the 'gripper'. I used an external power supply, just to be on the safe side and not accidentally fry my board.
 
