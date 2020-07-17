@@ -97,7 +97,7 @@ void scan()
   Serial.println(" cm");
 
   // updates the flag objectDetected
-  if (objectDistance < 10 && objectDistance != 0 && baseServo.read() <= 120 && baseServo.read() >= 70) 
+  if (objectDistance < 12 && objectDistance > 8 && baseServo.read() <= 120 && baseServo.read() >= 70) 
   {
     objectDetected = true;
     Serial.println("Object detected");
