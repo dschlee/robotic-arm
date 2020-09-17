@@ -1,4 +1,4 @@
-# servo-robot-ultrasonic
+# Robotic Arm
 
 
 ## Introduction
